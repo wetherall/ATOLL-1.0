@@ -7,6 +7,7 @@ Just trying to make a dang fine 40% keyboard
 ![PXL_20210725_145310900 v](https://user-images.githubusercontent.com/8249924/126906880-5263100e-5dda-4875-903f-ba318d6638cb.jpg)
 
 
-![PXL_20210725_144732280 v](https://user-images.githubusercontent.com/8249924/126906624-38ca0857-d6ed-4f31-a39a-2136b9657a39.jpg)
+![PXL_20210725_144732280 c](https://user-images.githubusercontent.com/8249924/126906926-ce1df985-e50d-4d2f-8fac-8cef80fe73a3.jpg)
+
 
 
