@@ -11,3 +11,12 @@ Just trying to make a dang fine 40% keyboard
 
 
 
+
+An atoll ( /ˈæt.ɒl, -ɔːl, -oʊl, əˈtɒl, -ˈtɔːl, -ˈtoʊl/), sometimes known as a coral atoll, is a ring-shaped coral reef, including a coral rim that encircles a lagoon partially or completely. There may be coral islands or cays on the rim.
+
+The result of a foolish PCB-first cas-second approach to a 40% mechanical keyboard. 12.75u width with a split spacebar HHKB bottom row.
+
+
+
+![image](https://user-images.githubusercontent.com/8249924/127027931-3962c3ee-2d07-43f1-9224-b6bf6e352ef6.png)
+
