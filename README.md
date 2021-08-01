@@ -23,6 +23,6 @@ There's a hole in the middle. It serves no practical purpose.
 ![image](https://user-images.githubusercontent.com/8249924/127027931-3962c3ee-2d07-43f1-9224-b6bf6e352ef6.png)
 
 
-Atoll is powered by [QMK](qmk.fm) firmware and comes with [Vial](get.vial.toay) support already flashed.
+Atoll is powered by [QMK](http://qmk.fm) firmware and comes with [Vial](http://get.vial.toay) support already flashed.
 
 
