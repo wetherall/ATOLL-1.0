@@ -19,8 +19,8 @@ The result of a foolish PCB-first case-second approach to a hotswap 40% mechanic
 There's a hole in the middle. It serves no practical purpose.
 
 
+![image](https://user-images.githubusercontent.com/8249924/127764094-10e34f2f-155c-45a3-8948-66becdfa3f4d.png)
 
-![image](https://user-images.githubusercontent.com/8249924/127027931-3962c3ee-2d07-43f1-9224-b6bf6e352ef6.png)
 
 
 Atoll is powered by [QMK](https://qmk.fm) firmware and comes with [Vial](https://get.vial.today) support already flashed.
