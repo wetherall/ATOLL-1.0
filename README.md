@@ -25,3 +25,8 @@ There's a hole in the middle. It serves no practical purpose.
 
 Atoll is powered by [QMK](https://qmk.fm) firmware and comes with [Vial](https://get.vial.today) support already flashed.
 
+
+
+![PXL_20210725_145310900](https://user-images.githubusercontent.com/8249924/129340117-5a0b9656-0556-42c5-b673-7325806cc003.jpg)
+Pictured here with a rotatry encoder installed in a frosted polycarbonate plate.
+
